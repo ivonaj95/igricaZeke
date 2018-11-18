@@ -1,14 +1,14 @@
 ﻿Seminarski rad: GLADNE ZEKE
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
 
 (Igrica u programskom jeziku Scala)
 Korištene tehnologije: ScalaFX 2.11.8, Scala 2.11.8 , JavaFX 8, Java 8
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
 
 AUTORI: 
 
 Ivona Jurošević(mr14003) i Aleksandar Mužina(mr14235).
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
 
 
 POKRETANJE: 
@@ -24,7 +24,7 @@ Ako želite da pokrenete igricu na nekom drugom operativnom sistemu (npr. Linux)
 	* SCALA + dodatna biblioteka za ScalaFX (Potrebno je da se verzije Scala i Scalafx poklope)
 
 Kada ovo instalirate jednostavno importujte zip fajl gladneZeke.zip u Eclipse i mozete pokrenuti program iz Eclipse.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 O IGRICI: 
 
@@ -37,7 +37,7 @@ Reultati se cuvaju u datoteci "Rezultati.txt".
 Ukoliko je izabran kupus igra je za dva igrača. Cilj svakog igrača je da skupi što vise kupusa pre nego sto ga pojede neka životinja. Pobednik je zeka koji prvi 
 skupi 50 kupusa(2500 poena). Ukoliko su oba zeca pojedena pobednik je zeka koji je do tada skupio više kupusa.
 Prvi zec se može kretati na strelice gore, dole, levo i desno. A skače na 0(NUM0). Drugi zec se kreće na W - gore, A -levo, S - dole, D - desno. A skače na space.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
@@ -46,4 +46,4 @@ Prvi zec se može kretati na strelice gore, dole, levo i desno. A skače na 0(NU
 
 
 Kontakt informacije: ivonajurosevic@gmail.com, aleksandar.muzina95@gmail.com
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
