@@ -46,4 +46,3 @@ Prvi zec se može kretati na strelice gore, dole, levo i desno. A skače na 0(NU
 
 
 Kontakt informacije: ivonajurosevic@gmail.com, aleksandar.muzina95@gmail.com
---------------------------------------------------------------------------------------------------------------------------------
